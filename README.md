@@ -124,8 +124,4 @@ The Rbac component accepts the following props (none of which is required):
 |**`checkboxTableContainer`**|node|The component to use for the container of the checkbox table
 |**`roleTag`**|node|The component to use for the role name tag
 
-## License
 
-Licensed under the MIT License, Copyright © 2021-present Dekel Braunstein.
-
-See [LICENSE](./LICENSE) for more information.
